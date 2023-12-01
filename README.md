@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Arthur Macêdo!
 
-<!--
-**arthurmacedo01/arthurmacedo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🤖
 
-Here are some ideas to get you started:
+- Mechatronic Engineer with a Master's degree in Control and Automation.
+- Military Engineer in the Brazilian Air Force.
+- Freelancer as a web system developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise 💻
+
+- **Web Development:**
+  - Ruby on Rails (RoR) 💎
+  - ReactJS as frontend ⚛️
+  - C 🖥️
+  - Python 🐍
+
+- **Additional Technologies:**
+  - Internet of Things with ESP32 🔧
+  - Data Science 📊
+  - Electronics ⚡
