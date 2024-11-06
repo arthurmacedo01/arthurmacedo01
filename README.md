@@ -4,11 +4,11 @@
 
 - Mechatronic Engineer with a Master's degree in Control and Automation.
 - Military Engineer in the Brazilian Air Force.
-- Freelancer as a web system developer.
+- Software Engineer.
 
 ## Areas of Expertise 💻
 
-- **Web Development:**
+- **Software Engineer:**
   - Ruby on Rails (RoR) 💎
   - ReactJS as frontend ⚛️
   - C 🖥️
